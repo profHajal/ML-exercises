@@ -15,6 +15,9 @@ Besides *Python 3* I will be using [SciPy ecosystem](https://www.scipy.org/index
 Number of files and names of those files will match original code found in starter code of that exercise.
 Any additional changes will be written in respective **README.md** files of each assignment.
 
+
+## Topics of exercises:
+
 - [ ] 1. Linear Regression
 - [ ] 2. Logistic Regression
 - [ ] 3. Mutli-class Classification and Neural Networks
