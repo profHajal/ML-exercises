@@ -15,11 +15,11 @@ Besides *Python 3* I will be using [SciPy ecosystem](https://www.scipy.org/index
 Number of files and names of those files will match original code found in starter code of that exercise.
 Any additional changes will be written in respective **README.md** files of each assignment.
 
-- [] 1. Linear Regression
-- [] 2. Logistic Regression
-- [] 3. Mutli-class Classification and Neural Networks
-- [] 4. Neural Networks Learning
-- [] 5. Regularized Linear Regression and Bias v.s. Variance
-- [] 6. Support Vector Machines
-- [] 7. K-means Clustering and Principal Component Analysis
-- [] 8. Anomaly Detection and Recommender Systems
+- [ ] 1. Linear Regression
+- [ ] 2. Logistic Regression
+- [ ] 3. Mutli-class Classification and Neural Networks
+- [ ] 4. Neural Networks Learning
+- [ ] 5. Regularized Linear Regression and Bias v.s. Variance
+- [ ] 6. Support Vector Machines
+- [ ] 7. K-means Clustering and Principal Component Analysis
+- [ ] 8. Anomaly Detection and Recommender Systems
